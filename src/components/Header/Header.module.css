@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: var(--z-index-max);
+  max-height: 82px;
+  width: 100%;
+  padding: 1vh 20px;
+  background-color: var(--color-red);
+  font-weight: var(--font-Inter-bold);
+  font-size: 20px;
+}
+
+.logoContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
