@@ -4,12 +4,13 @@
   --font-Inter-regular: 400;
   --font-Inter-bold: 700;
 
-  --color-accent: #ffffff;
-  --color-primary: #fff5d7;
-  --color-dark: #2f1827;
-  --color-red: #ff5e6c;
-  --color-yellow: #feb300;
-  --color-pink: #ffaaab;
+  --color-white: #F4F4F6;
+  --color-back: #403F4C;
+  --color-fore: #4B4A59;
+  --color-gray: #5E5D6F;
+  --color-red: #E84855;
+  --color-yellow: #F9DC5C;
+  --color-blue: #3185FC;
 
   --z-index-min: -1;
   --z-index-max: 1000;
@@ -19,8 +20,8 @@
   font-weight: var(--font-Inter-regular);
 
   color-scheme: light dark;
-  color: var(--color-primary);
-  background-color: var(--color-dark);
+  color: var(--color-white);
+  background-color: var(--color-back);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;

@@ -6,7 +6,7 @@
   max-height: 82px;
   width: 100%;
   padding: 1vh 20px;
-  background-color: var(--color-red);
+  background-color: var(--color-fore);
   font-weight: var(--font-Inter-bold);
   font-size: 20px;
 }
