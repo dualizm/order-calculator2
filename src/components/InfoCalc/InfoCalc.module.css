@@ -1,0 +1,15 @@
+.infocalc {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.inputs {
+    padding: 5px 20px;
+    border: 2px solid var(--color-gray);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
