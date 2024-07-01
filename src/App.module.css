@@ -1,7 +1,0 @@
-.cart {
-  display: flex;
-  justify-content: center;
-  gap: 80px;
-  flex-wrap: wrap;
-  background-color: var(--color-dark);
-}

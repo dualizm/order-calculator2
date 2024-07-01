@@ -7,11 +7,11 @@ export function ListCart() {
 		<div className={st.listcart}>
 			<div className={st.addcart}>
 				<p>Заказы</p>
-				<IconButton icon={<PlusIcon />}>
-					Добавить заказ
-				</IconButton>
 				<Input placeholder='Имя' />
 				<Input placeholder='Цены' />
+				<IconButton icon={<PlusIcon />} block>
+					Добавить заказ
+				</IconButton>
 			</div>
 		</div>
 	)
